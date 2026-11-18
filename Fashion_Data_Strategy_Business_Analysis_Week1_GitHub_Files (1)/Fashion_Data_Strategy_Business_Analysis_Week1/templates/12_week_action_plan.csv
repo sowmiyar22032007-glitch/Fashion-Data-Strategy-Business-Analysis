@@ -1,0 +1,6 @@
+﻿Phase,Timeline,Key actions from report,Expected output,Owner,Status
+Phase 1: Discovery and planning,Weeks 1-2,Confirm objectives; list available data; choose tools; finalise KPI definitions,Approved plan and data inventory,,Not started
+Phase 2: Data foundation,Weeks 3-5,Collect and clean sales and stock data; build standard dataset; measure baseline KPIs,Clean dataset and baseline report,,Not started
+Phase 3: Analysis and models,Weeks 6-8,"Build demand forecast, ABC analysis, customer segments and first trend report",Working models and insights pack,,Not started
+Phase 4: Dashboard and pilot,Weeks 9-10,Create dashboard; pilot on one product category and one channel,Live dashboard and pilot results,,Not started
+Phase 5: Scale and improve,Weeks 11-12,Extend to all categories; train team; set monthly review routine,Rollout plan and review calendar,,Not started

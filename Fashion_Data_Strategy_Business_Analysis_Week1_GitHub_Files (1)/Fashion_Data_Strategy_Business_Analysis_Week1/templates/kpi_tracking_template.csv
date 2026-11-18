@@ -1,0 +1,12 @@
+﻿KPI,How it is measured,Proposed target from report,Baseline value,Current value,Review month
+Forecast accuracy (MAPE),Average percentage gap between forecast and actual sales per SKU,Below 25% error for core items,,,
+Sell-through rate,"Units sold divided by units received, per season",70% or higher at full price by mid-season,,,
+Stock-out rate,Share of days or SKUs with zero stock while demand exists,Below 5%,,,
+Inventory turnover,Cost of goods sold divided by average inventory value,Increase by 15% year on year,,,
+Dead stock ratio,Value of stock unsold after 180 days divided by total stock,Below 8%,,,
+Gross margin return on inventory,Gross profit divided by average inventory cost,Improve steadily each quarter,,,
+Customer acquisition cost,Marketing spend divided by new customers gained,Reduce by 10%,,,
+Return on ad spend (ROAS),Revenue from a campaign divided by its cost,At least 3 to 1,,,
+Repeat purchase rate,Share of customers who buy again within 90 days,Increase by 5 percentage points,,,
+Return rate,Returned units divided by units sold,Reduce by 10% in affected categories,,,
+Trend hit rate,Share of recommended trends that convert to strong sales,60% or higher,,,
